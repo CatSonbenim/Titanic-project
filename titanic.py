@@ -1,3 +1,5 @@
+"""Program by @CatSonbenim (Lisa Bulala) 12.05.2018"""
+
 import pandas as pd
 import re
 
